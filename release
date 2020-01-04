@@ -1,0 +1,12 @@
+Small program to help out hosts of raid dens on Pokemon Sword & Shield.
+Generates a code which can be copied to clipboard with the click of a button, code comes in a text format "Code is XXXX" and can be changed into bold and/or italic using checkboxes (these are for Discord only as most hosts prefer hosting over there). 
+The text is also saved into a text document each time it is generated, so streamers can also use it by simply adding a source to their scene and reading the contents of that file (OBS used as reference here, don't know how other streaming programs go about it).
+
+Next to the code generator is a list maker one can use to simply and quickly finish up a list of who will be entering the raid. Has simple options of adding and deleting usernames as well as clearing the whole list.
+The list also comes with a button that allows for the whole list to be saved onto a text file. This was implemented because hosts tend to only let a limited amount of people enter and don't want the same people entering each time. Saved list will be overridden if one presses the button again, so if you wish to keep the previous lists, please rename the file.
+
+For future versions:
+- want to add a checkbox for not allowing users to enter the list twice (or any other amount the host wishes)
+- make saved list just expand when saving again without repeating the usernames it already has
+
+Any and every feedback is welcomed. If you have any suggestions I'd love to hear them.
